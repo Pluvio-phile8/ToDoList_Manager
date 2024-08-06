@@ -1,0 +1,14 @@
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\bin\Debug\net8.0\todolist.dao.deps.json
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\bin\Debug\net8.0\todolist.dao.runtimeconfig.json
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\bin\Debug\net8.0\todolist.dao.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\bin\Debug\net8.0\todolist.dao.pdb
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.csproj.AssemblyReference.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.AssemblyInfoInputs.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.AssemblyInfo.cs
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.csproj.CoreCompileInputs.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\refint\todolist.dao.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.pdb
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\todolist.dao.genruntimeconfig.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.dao\obj\Debug\net8.0\ref\todolist.dao.dll

@@ -1,0 +1,15 @@
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\bin\Debug\net8.0\todolist.business.deps.json
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\bin\Debug\net8.0\todolist.business.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\bin\Debug\net8.0\todolist.business.pdb
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\bin\Debug\net8.0\todolist.dao.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\bin\Debug\net8.0\todolist.dao.pdb
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.csproj.AssemblyReference.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.AssemblyInfoInputs.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.AssemblyInfo.cs
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.csproj.CoreCompileInputs.cache
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.412D426D.Up2Date
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\refint\todolist.business.dll
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\todolist.business.pdb
+E:\Workspace\Main\C#\Project\To-do List\Todo_List_Manager\todolist.business\obj\Debug\net8.0\ref\todolist.business.dll
