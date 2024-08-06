@@ -1,10 +1,12 @@
 Title: To Do List Application
+
 Description: 
   + User can read, create, edit and delete notes
   + User can Search to find notes easily and sort by date to track notes comfortably
   + The apearence's application is user-friendly
   + Easy to control
   + Portable and light-weight
+    
 How to Install and Run the Project:
 1. Press the Fork button (top right the page) to save copy of this project on your account.
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
